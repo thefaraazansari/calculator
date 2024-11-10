@@ -24,7 +24,7 @@
 
 .title-text {
   background: linear-gradient(135deg, #25b5ff 0%, #ac3bfa 100%) text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
   line-height: 5rem;
 }
 
